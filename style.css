@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+h1 {
+    color: #333;
+    padding-bottom: 10px;
+}
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.nav-list {
+    list-style: none;
+    padding: 0;
+}
+.nav-list li {
+    margin-bottom: 10px;
+}
+.nav-list a {
+    color: #333;
+    text-decoration: none;
+    display: block;
+    padding: 8px;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+.nav-list a:hover {
+    background-color: #d0d4ff;
+}
+
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.example {
+    background: #f4f4f4;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 10px 0;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #f0f0f0;
+}
+
+code {
+    background: #f4f4f4;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+pre {
+    background: #f4f4f4;
+    padding: 15px;
+    border-radius: 5px;
+    overflow-x: auto;
+}
+
+
+.form-example {
+    margin: 10px 0;
+}
+.form-example input,
+.form-example select,
+.form-example textarea {
+    margin: 5px 0;
+    padding: 5px;
+}
+.tag-example {
+    background: #f4f4f4;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.title{
+    padding: 0;
+    margin: 0;
+}
